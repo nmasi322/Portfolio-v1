@@ -29,7 +29,7 @@ export default function Home() {
             time, I love to read novels, you can call me a fantasy-fiction lover
             🙃 or binge watch movies on Netflix.
           </p>
-          <a href="/images/divine.pdf" download="myimage">
+          <a href="/images/divine.pdf" download="divine">
             <button className="button my-6">Download Resume</button>
           </a>
         </div>
