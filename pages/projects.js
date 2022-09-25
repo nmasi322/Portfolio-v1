@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Head from "next/head";
 import React from "react";
 import BottomNav from "../components/BottomNav";
 import Footer from "../components/Footer";
@@ -6,6 +7,14 @@ import Footer from "../components/Footer";
 export default function Projects() {
   return (
     <div className="bg-themeBlack min-h-screen text-gray-300 px-5 xs:px-10 md:px-20 xl:px-40">
+      <Head>
+        <title className="black">Divine Edeh</title>
+        <meta
+          name="description"
+          content="Divine Edeh - Software and Blockchain Engineer"
+        />
+        <link rel="icon" href="/favicon.ico" />
+      </Head>
       <h1 className="extrabold text-2xl md:text-3xl text-center py-5">
         Divine Edeh - Her projects
       </h1>
