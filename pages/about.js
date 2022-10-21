@@ -25,12 +25,12 @@ const About = () => {
             I&apos;m very easygoing and cool to hang out with (I believe in
             teamwork). <br />
             <br /> I have been a part of this industry (tech) for over two years
-            (almost three years 😉) and within that time I&apos;ve been able to
-            not only gather knowledge but master various languages, tools,
-            whatever. I believe strongly in my frontend skills (don&apos;t mind
-            the boring website, had to make something quick, mature and easy in
-            a short time 🥲). Oh yeah, don&apos;t mistake me for a boy please 😂
-            I&apos;m a girl with different tastes 🙃. <br />
+            and within that time I&apos;ve been able to not only gather
+            knowledge but master various languages, tools, whatever. I believe
+            strongly in my frontend skills (don&apos;t mind the boring website,
+            had to make something quick, mature and easy in a short time 🥲). Oh
+            yeah, don&apos;t mistake me for a boy please 😂 I&apos;m a girl with
+            different tastes 🙃. <br />
             <br />
             Even though my encounter with tech was by luck (a very lucky luck
             😂), I&apos;ve come to fall in love with using codes to build out
@@ -40,14 +40,13 @@ const About = () => {
             probably on MKBHD&apos;s channel on youtube (that guy knows his
             stuff!), watching movies on Netflix, looking for a new novel to read
             on Wattpad, or grinding up on Mathematics 🙃 I&apos;m open to
-            collaborations and part-time roles only (I&apos;m still in school
-            🥲)
+            collaborations on new and exciting projects ❤️
           </h6>
         </div>
         <div className="space-y-10 mt-8 md:mt-12">
           <div>
             <h1 className="bold text-xl">Frontend Tools</h1>
-            <h6 className="text-lg">
+            <h6 className="text-md">
               Javascript(ES6+), Typescript, React.js, Next.js, Redux, Redux
               Toolkit, React Testing Library, Mocha, Chai, Contentful/Sanity
               CMS, Git/Gitlab/Github, HTML5.
@@ -55,14 +54,14 @@ const About = () => {
           </div>
           <div>
             <h1 className="bold text-xl">Backend Tools</h1>
-            <h6 className="text-lg">
+            <h6 className="text-md">
               Node.js, Express.js, Mongodb, Render, Firebase, Postman, Swagger,
               Heroku, Docker.
             </h6>
           </div>
           <div>
             <h1 className="bold text-xl">Libraries</h1>
-            <h6 className="text-lg">
+            <h6 className="text-md">
               Tailwindcss, CSS3, Styled components, Materail UI, Chart.js,
               jQuery, React hook form, Anime.js, Animate on scroll (AOS)
             </h6>
